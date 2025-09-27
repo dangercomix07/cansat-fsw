@@ -36,6 +36,8 @@ endif()
 file(GLOB_RECURSE SOURCES
     main.cpp
     apps/*.cpp
+    queues/*.cpp
+    msg/*.cpp
     ${PLATFORM_SOURCES}
 )
 
