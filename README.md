@@ -1,6 +1,6 @@
 # cansat-fsw
 
-```bash
+```txt
 \apps
     \CommandHandler: Responsible for parsing command from RX and routing it's implementation
     # More applications will be added here
